@@ -32,7 +32,7 @@ I haven't reached a significant milestone this year, and it’s time to change t
 I'll maintain a daily checklist on Google Sheets, where I can monitor and track my activities for the next 60 days. 
 
 ### Progress Updates:
-I'll be sharing my daily progress on [LinkedIn](https://www.linkedin.com/timothy-mwangi/) starting on **Day 5**. My GitHub repository will also be updated regularly with my coding projects.
+I'll be sharing my daily progress on [LinkedIn](https://www.linkedin.com/in/timothy-mwangi/) starting on **Day 5**. My GitHub repository will also be updated regularly with my coding projects.
 
 ---
 
