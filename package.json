@@ -1,0 +1,21 @@
+{
+  "name": "60_days_of_code",
+  "version": "1.0.0",
+  "description": "This year has been overwhelming, but the greatest gift is that I'm still breathing. All glory to Yahweh for keeping me grounded and focused.",
+  "main": "index.js",
+  "scripts": {
+    "tim": "nodemon ./day_2/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
