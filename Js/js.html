@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Js - Classes</title>
+<script>
+    function myFunction(){
+        document.getElementById("demo").innerHTML = "Paragraph changed.";
+    }
+    function calcFunc(){
+        document.getElementById("calc").innerHTML = 5 + 6;
+    }
+</script>
+</head>
+<body>
+
+<h2>Demo Js in Head</h2>
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
+
+<p id="calc">Calculate</p>
+<button type="button" onclick="calcFunc()">Click Me</button>
+
+<p>Hesabu</p>
+<button type="button" onclick="document.write(8+9)"></button>
+
+
+<!--Displays it on the screen-->
+<script>
+    window.alert("JavaScript is Fun!");
+</script>
+
+<script>
+    alert("Hey there!");
+</script>
+
+<!--Open Console on =your browser and run it-->
+<script>
+    console.log(10*30);
+</script>
+
+
+<!--Prints the content of the current page-->
+<button onclick="window.print()">JavaScript is Fun : lol</button>
+
+<!--A Js program is a list of programming statements
+    They are composed of Values, Operators, Expressions, Keywords and comments
+    Semicolons separate Js Statements and are added at the end of dach executable statement
+-->
+<button id="result"></button>
+
+<script>
+    let a, b, c;
+    a = 5;
+    b = 8;
+    c = a + b;
+    document.getElementById("result").innerHTML = c;
+</script>
+
+
+</body>
+</html>
